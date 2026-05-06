@@ -1,0 +1,1 @@
+import{k as e,p as t,u as n}from"./vue.runtime.esm-bundler-BpiBL0Kj.js";import{L as r}from"./index-C0mekcK7.js";var i={};function a(r,i){return e(),t(`div`,null,[...i[0]||=[n(`h1`,null,`Products Page`,-1)]])}var o=r(i,[[`render`,a]]);export{o as default};

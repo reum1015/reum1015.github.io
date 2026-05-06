@@ -1,0 +1,1 @@
+import{t as e}from"./HeaderNavBar-Cd8ys676.js";function t(e){return e}var n=t(({app:t})=>{t.component(`HeaderNavBar`,e)});export{n as default};
