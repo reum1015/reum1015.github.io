@@ -1,1 +1,0 @@
-import{P as e,d as t,h as n,k as r}from"./vue.runtime.esm-bundler-BpiBL0Kj.js";import{C as i}from"./index-C0mekcK7.js";import{t as a}from"./HeaderNavBar-Cd8ys676.js";var o={__name:`MainLayout`,setup(o){return(o,s)=>(r(),t(i,{view:`lHh Lpr lFf`,class:`main_layout`},{default:e(()=>[n(a)]),_:1}))}};export{o as default};
