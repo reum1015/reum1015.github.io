@@ -1,1 +1,0 @@
-import{t as e}from"./wrappers-tH29nU8B.js";import{t}from"./HeaderNavBar-pcqIKDR0.js";var n=e(({app:e})=>{e.component(`HeaderNavBar`,t)});export{n as default};
